@@ -5,26 +5,34 @@ body{
 
 
 h1{
-    border: 12 px solid blue;
-    background-color: blue;
+    border: 12 px solid rgb(255, 255, 255);
+    background-color: rgba(102, 118, 235, 0,449);
     padding: 15px;
     text-align: center;
 }
 
 h2{
-    border: 6px solid;
-    border-color: red green blue;
+    border: 10px solid;
+    border-color: red rgb(3, 168, 0);
     padding: 10px;
+    background-color: rgba(102, 118, 235, 0.449);
 }
 
 
 table{
+    border:5px solid;
     width: 100%;
-    height: 50vh;
+    height: 60vh;
+    border-color: red rgb(22, 206, 12);
+    background-color: rgba(102, 118, 235, 0.449);
 }
 
 td,th{
     font-weight: bold;
     text-align: center;
     font-size: 18px
+}
+
+.Brasil{
+       background-color: yellow;
 }
