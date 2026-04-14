@@ -36,3 +36,12 @@ td,th{
 .Brasil{
        background-color: yellow;
 }
+
+details{
+    border: 5px solid;
+    border-color: greenyellow;
+}
+
+    .local{
+        border: 5px solid ;
+    }
